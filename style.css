@@ -29,7 +29,6 @@ body {
 
 .header .layout-column {
   min-height: 50px;
-  background-color: rgba(192, 57, 43, 0.9);
 }
 
 .header .layout-column-1 {
@@ -66,7 +65,7 @@ body {
 
 /* Стили содержания */
 .hidden {
-  display: none;
+  display: block;
 }
 
 .logo {
